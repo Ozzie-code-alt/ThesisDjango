@@ -1,4 +1,8 @@
-# ThesisDjango
+# Casically django integrated with open cv 
 Thesis Django Try
 
-- work on this later
+- run main.py on terminal 
+- add `/admin` in URL
+- for username : `justinSantos`
+- password : `q`
+- upload images and choose desired basic filter (built in CV Attribs)
